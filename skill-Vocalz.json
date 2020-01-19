@@ -1,0 +1,3296 @@
+{
+  "intents": [
+    {
+      "intent": "Failed",
+      "examples": [
+        {
+          "text": "did not go through"
+        },
+        {
+          "text": "site is down"
+        },
+        {
+          "text": "expired"
+        },
+        {
+          "text": "unavailable"
+        },
+        {
+          "text": "The product description is different from the display"
+        },
+        {
+          "text": "i hate RBC"
+        },
+        {
+          "text": "session timed out"
+        },
+        {
+          "text": "out of stock"
+        },
+        {
+          "text": "not working"
+        },
+        {
+          "text": "not received"
+        },
+        {
+          "text": "not loading"
+        },
+        {
+          "text": "not displayed"
+        },
+        {
+          "text": "not applied"
+        },
+        {
+          "text": "My payment did not go through. What do I do?"
+        },
+        {
+          "text": "i want to return the product"
+        },
+        {
+          "text": "How do I return the product?"
+        },
+        {
+          "text": "failed"
+        },
+        {
+          "text": "error on page"
+        },
+        {
+          "text": "crashed"
+        },
+        {
+          "text": "debited twice"
+        },
+        {
+          "text": "is not available"
+        }
+      ]
+    },
+    {
+      "intent": "Forgotpassword",
+      "examples": [
+        {
+          "text": "how can i reset my password"
+        },
+        {
+          "text": "i need to reset password"
+        },
+        {
+          "text": "I forgot my password"
+        },
+        {
+          "text": "i dont remember my password"
+        },
+        {
+          "text": "can you help with password reset"
+        }
+      ]
+    },
+    {
+      "intent": "Excited",
+      "examples": [
+        {
+          "text": "that is great"
+        },
+        {
+          "text": "awesome"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "thats great"
+        },
+        {
+          "text": "thats nice"
+        },
+        {
+          "text": "wow"
+        }
+      ]
+    },
+    {
+      "intent": "FundTransfer",
+      "examples": [
+        {
+          "text": "want to transfer money"
+        },
+        {
+          "text": "P2P fund transfer"
+        },
+        {
+          "text": "I want to transfer funds"
+        },
+        {
+          "text": "fund transfer"
+        }
+      ]
+    },
+    {
+      "intent": "nonsense",
+      "examples": [
+        {
+          "text": "buffalo"
+        },
+        {
+          "text": "are you mad"
+        },
+        {
+          "text": "hashahah"
+        },
+        {
+          "text": "is the sky blue"
+        },
+        {
+          "text": "hahahaha"
+        },
+        {
+          "text": "sdjhsjd"
+        },
+        {
+          "text": "are you a fool"
+        },
+        {
+          "text": "ajshajhds"
+        },
+        {
+          "text": "this is red"
+        },
+        {
+          "text": "it is bad"
+        },
+        {
+          "text": "hahahah"
+        },
+        {
+          "text": "come here"
+        },
+        {
+          "text": "ccc"
+        }
+      ]
+    },
+    {
+      "intent": "payment",
+      "examples": [
+        {
+          "text": "pay prepaid bill"
+        },
+        {
+          "text": "pay my monthly bill"
+        },
+        {
+          "text": "pay the last statement balance on"
+        },
+        {
+          "text": "pay my bills"
+        },
+        {
+          "text": "recharge my mobile"
+        },
+        {
+          "text": "i want to pay off my credit card"
+        },
+        {
+          "text": "make bill payment"
+        },
+        {
+          "text": "make a payment"
+        },
+        {
+          "text": "pay the bill on this"
+        },
+        {
+          "text": "pay now"
+        }
+      ]
+    },
+    {
+      "intent": "recommend",
+      "examples": [
+        {
+          "text": "suggest me some gifts"
+        },
+        {
+          "text": "looking to purchase"
+        },
+        {
+          "text": "looking for a loan"
+        },
+        {
+          "text": "i need a car"
+        },
+        {
+          "text": "i want a home"
+        },
+        {
+          "text": "types of loans"
+        },
+        {
+          "text": "can you recommend"
+        },
+        {
+          "text": "what are the recommendations for"
+        },
+        {
+          "text": "want to buy"
+        }
+      ]
+    },
+    {
+      "intent": "Viewtransactions",
+      "examples": [
+        {
+          "text": "list down by recent transactions"
+        },
+        {
+          "text": "2 feb 2019"
+        },
+        {
+          "text": "1 dec 2018"
+        },
+        {
+          "text": "show my transactions"
+        },
+        {
+          "text": "view my transactions"
+        },
+        {
+          "text": "what are the activities on my account"
+        },
+        {
+          "text": "can i have a look at my transactions"
+        },
+        {
+          "text": "what were my dining expenses"
+        },
+        {
+          "text": "provide me an account statement"
+        },
+        {
+          "text": "what were my expenses"
+        },
+        {
+          "text": "what were my transactions"
+        }
+      ]
+    },
+    {
+      "intent": "define",
+      "examples": [
+        {
+          "text": "tell me about"
+        },
+        {
+          "text": "what is meant by"
+        },
+        {
+          "text": "define"
+        },
+        {
+          "text": "explain"
+        },
+        {
+          "text": "what is merchant site"
+        },
+        {
+          "text": "what is a"
+        }
+      ]
+    },
+    {
+      "intent": "Ok",
+      "examples": [
+        {
+          "text": "thx"
+        },
+        {
+          "text": "okay"
+        },
+        {
+          "text": "not required"
+        },
+        {
+          "text": "nope"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "fine"
+        },
+        {
+          "text": "okie"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thanks a lot"
+        },
+        {
+          "text": "thanks for your support"
+        },
+        {
+          "text": "nothing"
+        },
+        {
+          "text": "cancel"
+        },
+        {
+          "text": "tx"
+        },
+        {
+          "text": "that was all"
+        },
+        {
+          "text": "that is fine"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "all right"
+        },
+        {
+          "text": "allright"
+        },
+        {
+          "text": "cool"
+        }
+      ]
+    },
+    {
+      "intent": "comparison",
+      "examples": [
+        {
+          "text": "how are they similar"
+        },
+        {
+          "text": "how is it better than"
+        },
+        {
+          "text": "how it is different from"
+        },
+        {
+          "text": "what are the differentiating factor"
+        },
+        {
+          "text": "in comparison to the other"
+        },
+        {
+          "text": "compare the products"
+        },
+        {
+          "text": "how are they different"
+        }
+      ]
+    },
+    {
+      "intent": "accountbalance",
+      "examples": [
+        {
+          "text": "list down my accounts"
+        },
+        {
+          "text": "credit card balance"
+        },
+        {
+          "text": "account bal"
+        },
+        {
+          "text": "balance in my account"
+        },
+        {
+          "text": "account balance"
+        },
+        {
+          "text": "savings"
+        },
+        {
+          "text": "chequing"
+        },
+        {
+          "text": "want to check my acct bal"
+        },
+        {
+          "text": "whats the balance on my account"
+        },
+        {
+          "text": "what is my account balance"
+        },
+        {
+          "text": "show all the accounts"
+        }
+      ]
+    },
+    {
+      "intent": "representative",
+      "examples": [
+        {
+          "text": "can i speak to someone"
+        },
+        {
+          "text": "speak to a representative"
+        },
+        {
+          "text": "i need help"
+        },
+        {
+          "text": "speak to someone"
+        },
+        {
+          "text": "representative"
+        }
+      ]
+    },
+    {
+      "intent": "branchInfo",
+      "examples": [
+        {
+          "text": "help me with branches in andheri"
+        },
+        {
+          "text": "Do we have a branch in new york?"
+        },
+        {
+          "text": "could you give me the branch address at Andheri"
+        },
+        {
+          "text": "branch details in India"
+        },
+        {
+          "text": "are there branches outside India"
+        },
+        {
+          "text": "is there a branch in cochin"
+        },
+        {
+          "text": "i want to visit the nearest branch"
+        },
+        {
+          "text": "which are the branches in US?"
+        },
+        {
+          "text": "where are the branches in mumbai"
+        }
+      ]
+    },
+    {
+      "intent": "feedback",
+      "examples": [
+        {
+          "text": "leave a comment"
+        },
+        {
+          "text": "post comments"
+        },
+        {
+          "text": "post feedback"
+        },
+        {
+          "text": "provide a feedback"
+        },
+        {
+          "text": "provide feedback"
+        },
+        {
+          "text": "provide rating"
+        }
+      ]
+    },
+    {
+      "intent": "register",
+      "examples": [
+        {
+          "text": "new credit"
+        },
+        {
+          "text": "what is the registration process"
+        },
+        {
+          "text": "start a relationship"
+        },
+        {
+          "text": "looking to open an account"
+        },
+        {
+          "text": "how can i apply"
+        },
+        {
+          "text": "how can i register myself"
+        },
+        {
+          "text": "how to open an account"
+        },
+        {
+          "text": "how to register"
+        },
+        {
+          "text": "i want to apply"
+        },
+        {
+          "text": "i want to register"
+        },
+        {
+          "text": "i want to sign up"
+        },
+        {
+          "text": "can you help me with the process to register"
+        },
+        {
+          "text": "i want a credit card"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "i need a savings account"
+        },
+        {
+          "text": "open savings account"
+        },
+        {
+          "text": "create savings account"
+        },
+        {
+          "text": "new savings account"
+        },
+        {
+          "text": "create new chequing account"
+        },
+        {
+          "text": "new chequing account"
+        },
+        {
+          "text": "open new account"
+        },
+        {
+          "text": "create new account"
+        },
+        {
+          "text": "register new account"
+        },
+        {
+          "text": "register savings account"
+        },
+        {
+          "text": "register chequing account"
+        },
+        {
+          "text": "open new credit account"
+        },
+        {
+          "text": "new credit card"
+        },
+        {
+          "text": "i need a new credit account"
+        }
+      ]
+    },
+    {
+      "intent": "LostCard",
+      "examples": [
+        {
+          "text": "could you block my card"
+        },
+        {
+          "text": "need to block my card"
+        },
+        {
+          "text": "card is lost"
+        },
+        {
+          "text": "my card is stolen"
+        },
+        {
+          "text": "lost my card"
+        },
+        {
+          "text": "loss of my card"
+        },
+        {
+          "text": "freeze my card"
+        }
+      ]
+    },
+    {
+      "intent": "Access",
+      "examples": [
+        {
+          "text": "how can i check"
+        },
+        {
+          "text": "not able to select"
+        },
+        {
+          "text": "i need access to"
+        },
+        {
+          "text": "not able to check"
+        },
+        {
+          "text": "not able to access"
+        },
+        {
+          "text": "i could not find"
+        },
+        {
+          "text": "how to use"
+        },
+        {
+          "text": "how to select"
+        },
+        {
+          "text": "how do i check"
+        }
+      ]
+    },
+    {
+      "intent": "MoreInfo",
+      "examples": [
+        {
+          "text": "could you tell me more"
+        },
+        {
+          "text": "tell me about it"
+        },
+        {
+          "text": "more information"
+        },
+        {
+          "text": "more info"
+        },
+        {
+          "text": "more details"
+        },
+        {
+          "text": "Could you tell me more about it"
+        },
+        {
+          "text": "could you give more details"
+        }
+      ]
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Hi how are you"
+        },
+        {
+          "text": "how are you"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Howdy"
+        }
+      ]
+    },
+    {
+      "intent": "rnrTerms",
+      "examples": [
+        {
+          "text": "Can I select my EMI amount?"
+        },
+        {
+          "text": "I have not received any letter asking my confirmation"
+        },
+        {
+          "text": "Why I am not able to select loan tenure below 6 month?"
+        },
+        {
+          "text": "Why I am not able to select loan amount below 25000?"
+        },
+        {
+          "text": "Which Branch do I have to go for signing the documents?"
+        },
+        {
+          "text": "What if I want loan for higher amount and longer duration?"
+        },
+        {
+          "text": "What happens if there is a spelling mistake in my name printed on Adhaar card?"
+        },
+        {
+          "text": "My mobile camera not working . What to do?"
+        },
+        {
+          "text": "Is the Interest rate  fixed or floating?"
+        },
+        {
+          "text": "Can I avail 2 Pre-approved Loans"
+        },
+        {
+          "text": "Can I enter a mobile number other than the one used for downloading the app."
+        },
+        {
+          "text": "Can I get credit of loan amount in Account other than mentioned on the  screen"
+        },
+        {
+          "text": "If I Pay some Lumpsum amout ,will my EMI reduce?"
+        },
+        {
+          "text": "Can FATCA status be updated later?"
+        }
+      ]
+    },
+    {
+      "intent": "Addbeneficiary",
+      "examples": [
+        {
+          "text": "add a beneficiary"
+        },
+        {
+          "text": "add an account for transferring money"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "features",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coupon",
+          "synonyms": [
+            "coupon",
+            "coupons"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lasttransactions",
+          "synonyms": [
+            "last transactions",
+            "my last transactions",
+            "latest transactions",
+            "last 5 transactions",
+            "last five transactions",
+            "my last five transactions",
+            "my latest transactions",
+            "latest transaction",
+            "last transaction",
+            "last 5 transaction",
+            "past transaction",
+            "past transactions",
+            "transactions",
+            "transaction",
+            "transaction history"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "discount",
+          "synonyms": [
+            "discount",
+            "discounts"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "filter",
+          "synonyms": [
+            "filter"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "product",
+          "synonyms": [
+            "product",
+            "products"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "search",
+          "synonyms": [
+            "search"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "service",
+          "synonyms": [
+            "features",
+            "services"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "offer",
+          "synonyms": [
+            "deals",
+            "offer",
+            "offers"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "name",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Rajesh",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ramesh",
+          "synonyms": [
+            "ramesh"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "spending_category",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "fuel",
+          "synonyms": [
+            "fuel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "education",
+          "synonyms": [
+            "college",
+            "education",
+            "school"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dining",
+          "synonyms": [
+            "dining",
+            "dinner",
+            "food"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "utility",
+          "synonyms": [
+            "utilities",
+            "utility"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "travel",
+          "synonyms": [
+            "travel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "investment",
+          "synonyms": [
+            "investment",
+            "investments"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grocery",
+          "synonyms": [
+            "groceries",
+            "grocery"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "acknowledgement",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "alright",
+            "sure",
+            "yeah",
+            "yep",
+            "yes",
+            "yup"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "cancel",
+            "ignore",
+            "ignore that",
+            "nada",
+            "neah",
+            "never mind",
+            "no",
+            "nope"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "creditcardtype",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "RBC® Avion® Visa Infinite",
+          "synonyms": [
+            "RBC® Avion® Visa Infinite"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "RBC Rewards+™ Visa",
+          "synonyms": [
+            "RBC Rewards+™ Visa"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Signature® RBC Rewards® Visa",
+          "synonyms": [
+            "Signature® RBC Rewards® Visa"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "profession",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Business",
+          "synonyms": [
+            "business",
+            "business person",
+            "own business"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Working",
+          "synonyms": [
+            "job",
+            "service",
+            "working",
+            "working professional"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "merchant",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "mobile",
+          "synonyms": [
+            "mobile",
+            "phone"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "electricity",
+          "synonyms": [
+            "electric",
+            "electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "number",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "koodo",
+          "synonyms": [
+            " koodo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": [
+            "one",
+            "1"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": [
+            "2",
+            "two"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": [
+            "three",
+            "3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": [
+            "5",
+            "five"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "date",
+          "synonyms": [
+            "2 feb 2020",
+            "1 feb 2019",
+            "2 dec 2019",
+            "1 dec 2018",
+            "2 feb 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "quantity",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "moretwo",
+          "synonyms": [
+            "2 or more",
+            "greater than 2",
+            "greater than two",
+            "more than 2",
+            "more than two",
+            "two or more"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "account_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "FD",
+          "synonyms": [
+            "FD",
+            "fixed",
+            "fixed deposit"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "current",
+          "synonyms": [
+            "curr",
+            "current"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CC",
+          "synonyms": [
+            "credit",
+            "credit card"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "autodebit",
+          "synonyms": [
+            "auto debit",
+            "autopay",
+            "auto pay"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carloan",
+          "synonyms": [
+            "auto loan",
+            "car loan",
+            "i need a car",
+            "i need a car loan",
+            "get car loan",
+            "car"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "homeloan",
+          "synonyms": [
+            "home financing",
+            "home loan",
+            "home loans",
+            "housing loan",
+            "mortgage",
+            "mortgage loan",
+            "home",
+            "house",
+            "i need a home loan",
+            "i need a mortgage plan",
+            "i need a mortgage",
+            "i need a mortgage loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chequing",
+          "synonyms": [
+            "Chequing",
+            "Chequing account",
+            "checking"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "credit",
+          "synonyms": [
+            "credit",
+            "credit balance",
+            "credit card",
+            "liabilities",
+            "owe"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "studentloan",
+          "synonyms": [
+            "student",
+            "student loan",
+            "school loan",
+            "i am a student",
+            "i need a student loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "thanks",
+          "synonyms": [
+            "thanks",
+            "thank you",
+            "great",
+            "ok",
+            "okay",
+            "thank you so much"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "persloan",
+          "synonyms": [
+            "personal loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "preloan",
+          "synonyms": [
+            "pre approved loan",
+            "pre-approved loan",
+            "preapproved loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "savings",
+          "synonyms": [
+            "sav",
+            "saving",
+            "savings"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "wishlist",
+          "synonyms": [
+            "wishlist",
+            "wish list"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "merchant",
+          "synonyms": [
+            "merchant",
+            "merchants"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beneficiary",
+          "synonyms": [
+            "beneficiary",
+            "linked"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "OMP",
+          "synonyms": [
+            "market place",
+            "OMP",
+            "online market place",
+            "platform",
+            "portal",
+            "website"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "investment",
+          "synonyms": [
+            "demat",
+            "investment",
+            "mutual fund",
+            "mutual funds"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "option",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "financing",
+          "synonyms": [
+            "financing option"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "payment",
+          "synonyms": [
+            "payment methods",
+            "payment option"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gift",
+          "synonyms": [
+            "gift",
+            "gifts"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "EMI",
+          "synonyms": [
+            "EMI",
+            "monthly installment"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "runtime_version": "2016-09-20"
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You are welcome! What else can I help you with?"
+          ]
+        }
+      },
+      "parent": "node_4_1488686173932",
+      "conditions": "true",
+      "dialog_node": "node_2_1484321068740",
+      "previous_sibling": "node_3_1484321114873"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK, it was nice interacting with you."
+          ]
+        }
+      },
+      "parent": "node_4_1488686173932",
+      "context": {
+        "default_counter": 0
+      },
+      "conditions": "$default_counter>1",
+      "dialog_node": "node_3_1484321114873"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "home loan",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "true",
+      "dialog_node": "node_4_1484321533426",
+      "previous_sibling": "node_6_1477061588435"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "What is the loan amount you are looking for?"
+      },
+      "parent": "home loan",
+      "conditions": "@acknowledgement:yes || $res=='YES'",
+      "dialog_node": "node_6_1477061588435"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sure, we will fetch transactions between a date range. Please enter a start date in the format e.g. 15 aug 2016."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1488814238117",
+      "conditions": "@features:lasttransactions",
+      "dialog_node": "node_1_1488796982033"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No problem. What else can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579401670916",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_9_1579412717425",
+      "previous_sibling": "node_6_1579401935125"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A customer service representative will contact you shortly. Thank you for choosing RBC."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579401670916",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:yes",
+      "dialog_node": "node_6_1579401935125"
+    },
+    {
+      "type": "standard",
+      "title": "student",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No annual fee\n\nNo setup costs\n\nPay interest-only while in school, and for up to 2 years after you’ve completed your studies at an accredited institution.\nWould you like us to contact you regarding student loans?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1488860595968",
+      "conditions": "@account_type:studentloan",
+      "dialog_node": "node_8_1579401670916",
+      "previous_sibling": "home loan"
+    },
+    {
+      "type": "standard",
+      "title": "no",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No problem. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1488860595968",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_9_1579402018568",
+      "previous_sibling": "node_8_1579401670916"
+    },
+    {
+      "type": "standard",
+      "title": "home loan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "RBC provides you with affordable mortgage plans - 2 year fixed rates, 5 year fixed rates and 5 year fixed variables. Would you like to see your eligibility?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1488860595968",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1477061588435"
+      },
+      "conditions": "@account_type:homeloan",
+      "dialog_node": "home loan",
+      "previous_sibling": "node_1_1477407152137"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "RBC provides home/student/car loans at great rates. Which one would you like?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1488860595968",
+      "conditions": "true",
+      "dialog_node": "node_8_1488862118721",
+      "previous_sibling": "node_9_1579402018568"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Great, we offer affordable car loans at great rates.<a href=\"https://www.rbcroyalbank.com/personal-loans/car-loans.html\" target=\"_blank\">Here</a> is the link to know more about car loans Would you like to proceed?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1488860595968",
+      "conditions": "@account_type:carloan",
+      "dialog_node": "node_1_1477407152137"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry the one-time passcode is not correct. Please try again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_23_1488702139008",
+      "conditions": "true",
+      "dialog_node": "node_25_1488702201751",
+      "previous_sibling": "node_24_1488702185350"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Your payment has been successfully submitted. A receipt will be sent to your email id."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_23_1488702139008",
+      "conditions": "input_text=='1234'",
+      "dialog_node": "node_24_1488702185350"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks, an email has been sent to your registered email Id for password reset. The link will be active for 30 min. Please reset your password."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_29_1488702854322",
+      "conditions": "12345",
+      "dialog_node": "node_2_1484300719457"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1472263451798",
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_11_1488862283858",
+      "previous_sibling": "node_47_1488725563664"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1472263451798",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_33_1488721904983"
+      },
+      "conditions": "@merchant:mobile",
+      "dialog_node": "node_46_1488725555323",
+      "previous_sibling": "node_45_1488725520904"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1472263451798",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1472263451798"
+      },
+      "conditions": "true",
+      "dialog_node": "node_48_1488725571868",
+      "previous_sibling": "node_11_1488862283858"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1472263451798",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1471039584461"
+      },
+      "conditions": "@account_type:CC",
+      "dialog_node": "node_47_1488725563664",
+      "previous_sibling": "node_46_1488725555323"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1472263451798",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_21_1488701944999"
+      },
+      "conditions": "@merchant:electricity",
+      "dialog_node": "node_45_1488725520904"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry, the one-time passcode is not correct. We have sent a new one. Please enter the new code."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1492427282742",
+      "conditions": "true",
+      "dialog_node": "node_40_1488722397804",
+      "previous_sibling": "node_16_1488689741008"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_4_1492427282742",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1488688903577"
+      },
+      "conditions": "input.text=='1234'",
+      "dialog_node": "node_16_1488689741008"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry but I do not recognise this as valid beneficiary name. Please try again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1488686661668",
+      "conditions": "true",
+      "dialog_node": "node_16_1488862443960",
+      "previous_sibling": "node_19_1488862819401"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1488686661668",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_19_1488862819401",
+      "previous_sibling": "node_7_1488687293538"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter the amount that you wish to transfer."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1488686661668",
+      "conditions": "@name:Rajesh || @name:Ramesh",
+      "dialog_node": "node_7_1488687293538"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_40_1488722397804",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_40_1488722397804"
+      },
+      "conditions": "true",
+      "dialog_node": "node_6_1492427573795",
+      "previous_sibling": "node_42_1488722400612"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks, the amount has been transferred. It will reflect in your account in the next hour. Anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_40_1488722397804",
+      "conditions": "input_text=='4321'",
+      "dialog_node": "node_42_1488722400612"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, what else can I help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1492588643560",
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_6_1492588699519",
+      "previous_sibling": "node_4_1492588676901"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please click \"Yes\" button above."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1492588643560",
+      "conditions": "@acknowledgement:yes",
+      "dialog_node": "node_4_1492588676901"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, what else can I help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1479300011534",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no || $res=='NO'",
+      "dialog_node": "node_5_1484302563379",
+      "previous_sibling": "node_2_1479300155087"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "A customer service representative will contact you shortly. Thank you for choosing RBC."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1479300011534",
+      "conditions": "@acknowledgement:yes || $res=='YES'",
+      "dialog_node": "node_2_1479300155087"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry, the one-time passcode entered is not correct. Please try again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1492427252795",
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1492427282742",
+      "previous_sibling": "node_10_1488688903577"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks, the amount has been transferred. It will reflect in your account in the next hour. Anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1492427252795",
+      "conditions": "input.text=='1234'",
+      "dialog_node": "node_10_1488688903577"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Great. We have  1.RBC High Interest eSavings  2.RBC Enhanced Savings. 3.RBC Day to Day Savings and much more. Please click <a href=\"https://www.rbcroyalbank.com/onlineservices/personal/bank-accounts/index.html\" target=\"_blank\">here</a> to open savings account online"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_11_1488861036277",
+      "conditions": "@account_type:savings",
+      "dialog_node": "node_12_1488861096661",
+      "previous_sibling": "node_2_1492588643560"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for choosing RBC. Please click <a href=\"https://ibm.com\" target=\"_blank\">here</a> to know more about the credit cards. What type of credit card would you like?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1488861036277",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1579384867729"
+      },
+      "conditions": "@account_type:credit",
+      "dialog_node": "node_13_1488861278433",
+      "previous_sibling": "node_12_1488861096661"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Do you want to sign up for Checking or Savings account / Credit card?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_11_1488861036277",
+      "conditions": "true",
+      "dialog_node": "node_2_1488861508413",
+      "previous_sibling": "node_13_1488861278433"
+    },
+    {
+      "type": "standard",
+      "title": "chequing",
+      "output": {
+        "text": {
+          "values": [
+            "Thank you for your interest in RBC chequing accounts. We have RBC VIP Banking, RBC Signature No Limit Banking, RBC No Limit Banking. Go to <a href=\"https://www.rbcroyalbank.com/onlineservices/personal/bank-accounts/index.html\" target=\"_blank\">here</a> to open savings account online"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_11_1488861036277",
+      "conditions": "@account_type:Chequing",
+      "dialog_node": "node_2_1492588643560"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_9_1488862187158",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_21_1488701944999"
+      },
+      "conditions": "@merchant:electricity",
+      "dialog_node": "node_20_1488701818264",
+      "previous_sibling": "node_6_1484306356322"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_9_1488862187158",
+      "conditions": "@account_type:CC",
+      "dialog_node": "node_3_1488553866032",
+      "previous_sibling": "node_20_1488701818264"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "I do not recognise this as an account. Please select one of the provided options."
+      },
+      "parent": "node_9_1488862187158",
+      "conditions": "true",
+      "dialog_node": "node_2_1472263451798",
+      "previous_sibling": "node_13_1488862323684"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1488862187158",
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_13_1488862323684",
+      "previous_sibling": "node_3_1488553866032"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1488862187158",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_33_1488721904983"
+      },
+      "conditions": "@merchant:mobile",
+      "dialog_node": "node_6_1484306356322"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "We regret the inconvenience. Please try again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1486279608967",
+      "conditions": "@features:discount",
+      "dialog_node": "node_7_1486279676925",
+      "previous_sibling": "node_6_1486279642422"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "We regret the inconvenience. Please try again. Please call the merchant Customer care for any queries regarding the product or payment confirmation"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1486279608967",
+      "conditions": "true",
+      "dialog_node": "node_9_1486279917132",
+      "previous_sibling": "node_11_1486280291130"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please contact the Merchant Customer Care for queries related to payment and product."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1486279608967",
+      "conditions": "@features:product || @option:payment || @account_type:merchant",
+      "dialog_node": "node_10_1486280199008",
+      "previous_sibling": "node_7_1486279676925"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please refer to merchant portal to track transaction history, failed transactions, refund etc."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1486279608967",
+      "conditions": "@activity:transaction",
+      "dialog_node": "node_11_1486280291130",
+      "previous_sibling": "node_10_1486280199008"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please try adding your product again to the wishlist. If the issue persists, please mail your queries to …….@ibm.co.in"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1486279608967",
+      "conditions": "@features:product && @account_type:wishlist",
+      "dialog_node": "node_6_1486279642422"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Your payment has been successfully submitted. A receipt will be sent to your email id."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_27_1488702354021",
+      "conditions": "input_text=='4321'",
+      "dialog_node": "node_28_1488702638721"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry the one-time passcode entered is incorrect. We have sent a new one. Please enter the new code."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_25_1488702201751",
+      "conditions": "true",
+      "dialog_node": "node_27_1488702354021",
+      "previous_sibling": "node_26_1488702330203"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_25_1488702201751",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_24_1488702185350"
+      },
+      "conditions": "input_text=='1234'",
+      "dialog_node": "node_26_1488702330203"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Here are your transactions. Tim Hortons - $5.56  - 1 Jan 2019 .  BestBuy       - $210.23 - 23 Dec 2018. Mcdonalds - $ 32.45    - 11 Dec 2019",
+            "",
+            "",
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1488797075160",
+      "context": {
+        "action": {
+          "enddt": "<? input_text  ?>",
+          "lookup": "transactions",
+          "category": "all",
+          "append_total": false,
+          "append_response": true
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_3_1488798657579"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sure, let me know in which city are you looking for a branch."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1491888443713",
+      "conditions": "true",
+      "dialog_node": "node_1_1491911284038",
+      "previous_sibling": "node_3_1491888457649"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ]
+        }
+      },
+      "parent": "node_2_1491888443713",
+      "context": {
+        "action": {
+          "lookup": "branchInfo",
+          "Location": "<?$Location?>",
+          "append_response": true
+        }
+      },
+      "conditions": "$Location",
+      "dialog_node": "node_3_1491888457649"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_11_1492429161945",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_11_1492429161945"
+      },
+      "conditions": "true",
+      "dialog_node": "node_10_1492429148857",
+      "previous_sibling": "node_9_1492429064822"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_11_1492429161945",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1492427252795"
+      },
+      "conditions": "input_text=='1111111111'",
+      "dialog_node": "node_9_1492429064822"
+    },
+    {
+      "type": "standard",
+      "title": "true",
+      "parent": "node_2_1579386708209",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1579386708209"
+      },
+      "conditions": "true",
+      "dialog_node": "node_8_1579387158927",
+      "previous_sibling": "node_9_1579387904895"
+    },
+    {
+      "type": "standard",
+      "title": "avion",
+      "parent": "node_2_1579386708209",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1579385213447"
+      },
+      "conditions": "@number:3",
+      "dialog_node": "node_10_1579387106490",
+      "previous_sibling": "node_8_1579386962375"
+    },
+    {
+      "type": "standard",
+      "title": "no",
+      "parent": "node_2_1579386708209",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_9_1579387904895",
+      "previous_sibling": "node_10_1579387106490"
+    },
+    {
+      "type": "standard",
+      "title": "signature",
+      "parent": "node_2_1579386708209",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1579385124980"
+      },
+      "conditions": "@number:2",
+      "dialog_node": "node_8_1579386962375",
+      "previous_sibling": "node_2_1579386911809"
+    },
+    {
+      "type": "standard",
+      "title": "normal visa",
+      "parent": "node_2_1579386708209",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1579384867729"
+      },
+      "conditions": "@number:1",
+      "dialog_node": "node_2_1579386911809"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your phone bill is 55.23. Would you like to continue?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "options",
+            "options": [
+              {
+                "label": "yes",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "no",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_33_1488721904983",
+      "conditions": "@number:1 || @number:koodo",
+      "dialog_node": "node_3_1579391451957"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What else can I help you with? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1477407152137",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_4_1579412912370",
+      "previous_sibling": "node_14_1484423919858"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thankyou for choosing RBC. RBC provides 2 types of loans. Fixed car loan and Variable car loan. You can choose anyone that suits your financial status. A customer service representative will contact you shortly. "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1477407152137",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:yes",
+      "dialog_node": "node_14_1484423919858"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thank you. A one time passcode has been generated and sent to your phone number. Please enter the passcode."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_22_1488702094291",
+      "conditions": "1000",
+      "dialog_node": "node_23_1488702139008"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_16_1488862443960",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_16_1488862443960"
+      },
+      "conditions": "true",
+      "dialog_node": "node_12_1488689286890",
+      "previous_sibling": "node_15_1488862411266"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_16_1488862443960",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_15_1488862411266",
+      "previous_sibling": "node_11_1488689243684"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_16_1488862443960",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1488687293538"
+      },
+      "conditions": "@name:Rajesh || @name:Ramesh",
+      "dialog_node": "node_11_1488689243684"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1488861508413",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1488861508413"
+      },
+      "conditions": "true",
+      "dialog_node": "node_6_1488861691676",
+      "previous_sibling": "node_7_1488861714076"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK, thanks, how can I help you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1488861508413",
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_7_1488861714076",
+      "previous_sibling": "node_5_1488861632665"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1488861508413",
+      "conditions": "@account_type:FD",
+      "dialog_node": "node_5_1488861632665",
+      "previous_sibling": "node_4_1488861599031"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1488861508413",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_12_1488861096661"
+      },
+      "conditions": "@account_type:savings",
+      "dialog_node": "node_4_1488861599031",
+      "previous_sibling": "node_3_1488861573207"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1488861508413",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_13_1488861278433"
+      },
+      "conditions": "@account_type:CC",
+      "dialog_node": "node_3_1488861573207"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "Thanks for your interest. Based on your account history, you are eligible for home loan of $300000 for 5 to 20 years. You can complete your application and get instant response online. Do you want to proceed?"
+      },
+      "parent": "node_6_1477061588435",
+      "conditions": "3000000",
+      "dialog_node": "node_1_1479300011534"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter a valid PAN number."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1492426752086",
+      "conditions": "true",
+      "dialog_node": "node_11_1492429161945",
+      "previous_sibling": "node_3_1492427252795"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks, we have sent a one-time passcode to you. Please enter the code."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1492426752086",
+      "conditions": "input_text=='123456'",
+      "dialog_node": "node_3_1492427252795"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter the end date. "
+          ]
+        }
+      },
+      "parent": "node_1_1488796982033",
+      "context": {
+        "action": {
+          "startdt": "<? input_text  ?>"
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_2_1488797075160"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Alright, anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1488687293538",
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_18_1488862776558",
+      "previous_sibling": "node_1_1492426752086"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter your PAN number."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1488687293538",
+      "conditions": "true",
+      "dialog_node": "node_1_1492426752086"
+    },
+    {
+      "type": "standard",
+      "title": "credit",
+      "parent": "node_13_1470165424141",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1579381172142"
+      },
+      "conditions": "@account_type:credit",
+      "dialog_node": "node_8_1579381508800",
+      "previous_sibling": "node_10_1579380671998"
+    },
+    {
+      "type": "standard",
+      "title": "true",
+      "parent": "node_13_1470165424141",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_13_1470165424141"
+      },
+      "conditions": "true",
+      "dialog_node": "node_3_1579380752834",
+      "previous_sibling": "node_8_1579381508800"
+    },
+    {
+      "type": "standard",
+      "title": "checking",
+      "parent": "node_13_1470165424141",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1579378302544"
+      },
+      "conditions": "@account_type:Chequing",
+      "dialog_node": "node_10_1579380671998",
+      "previous_sibling": "node_10_1579378493323"
+    },
+    {
+      "type": "standard",
+      "title": "savings",
+      "parent": "node_13_1470165424141",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1579378241381"
+      },
+      "conditions": "@account_type:savings",
+      "dialog_node": "node_10_1579378493323"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "What kind of payment would you like to schedule?  <br>1. Credit card <br>2. Mobile payment  <br>3. Electricity"
+      },
+      "parent": "node_2_1470163854173",
+      "conditions": "true",
+      "dialog_node": "node_9_1488862187158",
+      "previous_sibling": "node_33_1488721904983"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please select the service provider <br/> 1. Koodo <br/> 2. TMobile <br/> 3. Verizon <br/> 4. Sprint"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1470163854173",
+      "conditions": "@merchant:mobile",
+      "dialog_node": "node_33_1488721904983",
+      "previous_sibling": "node_21_1488701944999"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "To get started, please enter your account number (acc: 1001)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1470163854173",
+      "conditions": "@merchant:electricity",
+      "dialog_node": "node_21_1488701944999",
+      "previous_sibling": "node_9_1471039584461"
+    },
+    {
+      "type": "standard",
+      "title": "credit",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your credit balance is $784.56. How much would you like to pay?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1470163854173",
+      "context": {},
+      "conditions": "@account_type:CC",
+      "dialog_node": "node_9_1471039584461"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter the amount."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_21_1488701944999",
+      "conditions": "input_text='1001'",
+      "dialog_node": "node_22_1488702094291"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_4_1484321533426",
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_6_1484321816828",
+      "previous_sibling": "node_5_1484321796325"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_4_1484321533426",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1484321533426"
+      },
+      "conditions": "true",
+      "dialog_node": "node_7_1484321827731",
+      "previous_sibling": "node_6_1484321816828"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_4_1484321533426",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_6_1477061588435"
+      },
+      "conditions": "@acknowledgement:yes",
+      "dialog_node": "node_5_1484321796325"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No problem"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1579391451957",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@number:2",
+      "dialog_node": "node_4_1579391730995",
+      "previous_sibling": "node_5_1579391605871"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your phone bill has been paid."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1579391451957",
+      "conditions": "@number:1",
+      "dialog_node": "node_5_1579391605871"
+    },
+    {
+      "type": "standard",
+      "title": "true",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We have RBC Rewards+™ Visa, Signature® RBC Rewards® Visa, RBC® Avion®. Which one would you like to choose?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Name",
+            "options": [
+              {
+                "label": "RBC Rewards+ Visa",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Signature RBC rewards",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "RBC Avion Visa Infinite",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_13_1488861278433",
+      "conditions": "true",
+      "dialog_node": "node_2_1579386708209",
+      "previous_sibling": "node_10_1579385213447"
+    },
+    {
+      "type": "standard",
+      "title": "RBC® Avion® Visa Infinite‡",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your RBC Avion Visa Infinite card will be delivered to your address."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1488861278433",
+      "conditions": "@number:3",
+      "dialog_node": "node_10_1579385213447",
+      "previous_sibling": "node_3_1579385124980"
+    },
+    {
+      "type": "standard",
+      "title": "Signature® RBC Rewards® Visa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your Signature RBC rewards card will be delivered to your address."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1488861278433",
+      "conditions": "@number:2",
+      "dialog_node": "node_3_1579385124980",
+      "previous_sibling": "node_5_1579384867729"
+    },
+    {
+      "type": "standard",
+      "title": "normalvisa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your RBC Rewards Visa card will be delivered to your address."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1488861278433",
+      "conditions": "@number:1",
+      "dialog_node": "node_5_1579384867729"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your payment has been processed. What else can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1471039584461",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "true",
+      "dialog_node": "node_9_1579414400213",
+      "previous_sibling": "node_7_1579414205080"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "no problem. What else can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1471039584461",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@acknowledgement:no",
+      "dialog_node": "node_7_1579414205080"
+    },
+    {
+      "type": "standard",
+      "title": "chequing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"Your chequing account balance is $1345.89. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1488814113326",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@account_type:Chequing",
+      "dialog_node": "node_9_1579378302544",
+      "previous_sibling": "node_1_1579378241381"
+    },
+    {
+      "type": "standard",
+      "title": "credit",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your credit balance is $ 758.56 ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1488814113326",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@account_type:credit",
+      "dialog_node": "node_9_1579381172142",
+      "previous_sibling": "node_9_1579378302544"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Here is a list of your accounts. Savings account - xxxxxxxxxxx9813 Cheqing account- xxxxxxxxxxxxxx6789  and credit - xxxxxxxxxxxxxxx7856. Which one would you like to know about?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1488814113326",
+      "context": {},
+      "conditions": "true",
+      "dialog_node": "node_13_1470165424141",
+      "previous_sibling": "node_9_1579381172142"
+    },
+    {
+      "type": "standard",
+      "title": "savings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"Your balance on your savings account is $8979.98"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1488814113326",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "@account_type:savings",
+      "dialog_node": "node_1_1579378241381"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "I can help you with that. Please enter your account number."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#Forgotpassword",
+      "dialog_node": "node_29_1488702854322",
+      "previous_sibling": "node_4_1488686173932"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1477407152137"
+      },
+      "conditions": "#recommend",
+      "dialog_node": "node_10_1488860595968",
+      "previous_sibling": "node_6_1488814238117"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1492588643560"
+      },
+      "conditions": "#register",
+      "dialog_node": "node_11_1488861036277",
+      "previous_sibling": "node_10_1488860595968"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "Sure, let me get you to someone who can help."
+      },
+      "context": {
+        "action": {
+          "directToLiveAgent": true
+        }
+      },
+      "conditions": "#representative",
+      "dialog_node": "node_3_1471993307369",
+      "previous_sibling": "node_8_1470165051121"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "We are sorry to hear about that. You need to first block you card by login to https://www.ibm.com and click on ‘Block Lost/Stolen Card’. You can also send a SMS BLOCK XXXX to 5676791 from your registered mobile no. (XXXX = Last 4 digits of your IBM Card). You can also call our customer service number: 1 800 180 1290."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#LostCard",
+      "dialog_node": "node_3_1484301409368",
+      "previous_sibling": "node_29_1488702854322"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1491888457649"
+      },
+      "conditions": "#branchInfo",
+      "dialog_node": "node_2_1491888443713",
+      "previous_sibling": "node_3_1484301409368"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1579378241381"
+      },
+      "conditions": "#accountbalance",
+      "dialog_node": "node_4_1488814113326",
+      "previous_sibling": "node_5_1488686661668"
+    },
+    {
+      "type": "standard",
+      "title": "amount",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1471039584461"
+      },
+      "conditions": "#payment",
+      "dialog_node": "node_2_1470163854173",
+      "previous_sibling": "node_11_1488861036277"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry for the inconvenience. What else can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1470165051121"
+      },
+      "conditions": "#Failed",
+      "dialog_node": "node_5_1486279608967",
+      "previous_sibling": "node_2_1486270517039"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "context": {
+        "default_counter": "<?$default_counter+1?>"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1484321114873"
+      },
+      "conditions": "#Ok",
+      "dialog_node": "node_4_1488686173932",
+      "previous_sibling": "node_5_1486279608967"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "context": {
+        "action": {
+          "lookup": "rnr",
+          "append_response": true
+        }
+      },
+      "conditions": "#rnrTerms",
+      "dialog_node": "node_1_1488883006547",
+      "previous_sibling": "node_2_1474539409488"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "Hello, how can I help you?"
+      },
+      "conditions": "#Greetings",
+      "dialog_node": "node_2_1474539409488",
+      "previous_sibling": "node_2_1491888443713"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Oh, I am so sorry. Let me get you to someone who can help. You will receive a call shortly from the support team. Have a nice day."
+          ]
+        }
+      },
+      "context": {
+        "action": {
+          "directToLiveAgent": true
+        }
+      },
+      "conditions": "$tone_anger_score && $person.tone_anger_threshold && $tone_anger_score > $person.tone_anger_threshold",
+      "dialog_node": "node_2_1488553222639",
+      "previous_sibling": "node_3_1471993307369"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "For app related feedback/comments/ratings you can do it on Google Play/Apple iStore. (Product related feedback will come in detail in later phase)."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#feedback",
+      "dialog_node": "node_2_1486270517039",
+      "previous_sibling": "node_2_1470163854173"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry, I cannot understand that. Please rephrase the question."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#nonsense",
+      "dialog_node": "node_1_1484307980085",
+      "previous_sibling": "node_1_1488883006547"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1488796982033"
+      },
+      "conditions": "#Viewtransactions",
+      "dialog_node": "node_6_1488814238117",
+      "previous_sibling": "node_4_1488814113326"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Sure, I can help you transfer money. Here are your linked accounts. <br> Ramesh xxxxxx1234 <br> Rajesh xxxxxx4321 <br> Please enter the beneficiary account name to which you want to transfer."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#FundTransfer",
+      "dialog_node": "node_5_1488686661668",
+      "previous_sibling": "node_2_1488553222639"
+    },
+    {
+      "type": "standard",
+      "title": "conversation start",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi. Welcome to RBC! How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Greetings || @account_type:thanks",
+      "dialog_node": "node_8_1470165051121"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Vocalz",
+  "language": "en",
+  "description": "A cognitive banking chatbot"
+}
